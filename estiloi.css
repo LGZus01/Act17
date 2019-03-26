@@ -1,0 +1,20 @@
+#encabezado{
+	float:center;
+	background-color:#808080;
+}
+
+#menu{
+	float:right;
+	background-color:#808080;
+	height:700px;
+}
+
+#informacion{
+	background-color:#808080;
+	margin-right:450px;
+}
+
+#pie{
+	float:center;
+	background-color:#808080;
+}
